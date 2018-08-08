@@ -3,7 +3,7 @@
 """
 
 def product(*args):
-    if len(args)==0:
+    if len(args)== 0:
         raise TypeError('不能没有参数输入!')
     else:
         s=1
