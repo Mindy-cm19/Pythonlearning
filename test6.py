@@ -6,4 +6,4 @@ def createCounter():
         return a[0]
     return counter
 
-# 参考：https://www.cnblogs.com/JohnABC/p/4076855.html
+# 可参考：https://www.cnblogs.com/JohnABC/p/4076855.html
