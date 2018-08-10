@@ -1,3 +1,7 @@
+#生成器
+print([i for i in range(5)])
+print(i for i in range(5))
+
 """
 如果一个函数定义中包含yield关键字，那么这个函数就不再是一个普通函数，而是一个generator.
 """
